@@ -5,7 +5,6 @@
 💪 Codes for contributing to life and resolving reals problems.<br>
 💙Loves being multidisciplinary, problem-solving and challenging to herself.<br>
 🧩 Interests in motor sport, bicycle and sports.<br>
-📌 Develops at Tabby Cat.
 </p><br>
 
 <p align='center'>
