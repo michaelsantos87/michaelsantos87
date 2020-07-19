@@ -3,7 +3,7 @@
 🧠 Focuses on JS/TS, React and NodeJS | Protheus/AVPL.<br>
 🖥 Develops webapps, digital projects and back-end works.<br>
 💪 Codes for contributing to life and resolving reals problems.<br>
-💙Loves being multidisciplinary, problem-solving and challenging to herself.<br>
+💙Loves being multidisciplinary, problem-solving and challenging to himself.<br>
 🧩 Interests in motor sport, bicycle and sports.<br>
 </p><br>
 
