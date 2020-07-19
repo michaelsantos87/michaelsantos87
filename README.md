@@ -9,6 +9,6 @@
 
 <p align='center'>
 <a href="https://github.com/michaelsantos87" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/michaelsantos87/michaelsantos87/1ba0e97a09701bc1d252b9b302d842d6dfa462b4/home.svg"></a>
-<a href="https://github.com/michaelsantos87" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/michaelsantos87/michaelsantos87/1ba0e97a09701bc1d252b9b302d842d6dfa462b4/linkedin.svg"></a>
-<a href="https://github.com/michaelsantos87" target="_blank" title="HackerRank"><img  height="28" src="https://raw.githubusercontent.com/michaelsantos87/michaelsantos87/1ba0e97a09701bc1d252b9b302d842d6dfa462b4/code.svg"></a>
+<a href="https://www.linkedin.com/in/michaelsantos87/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/michaelsantos87/michaelsantos87/1ba0e97a09701bc1d252b9b302d842d6dfa462b4/linkedin.svg"></a>
+<a href="https://github.com/michaelsantos87?tab=repositories" target="_blank" title="HackerRank"><img  height="28" src="https://raw.githubusercontent.com/michaelsantos87/michaelsantos87/1ba0e97a09701bc1d252b9b302d842d6dfa462b4/code.svg"></a>
 </p>
